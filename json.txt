@@ -1,1 +1,1 @@
-my new file contents
+{'color': 'red','value': '#f00'}
